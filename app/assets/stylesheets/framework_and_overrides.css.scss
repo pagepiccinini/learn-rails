@@ -1,6 +1,10 @@
 // import the CSS framework
 @import "foundation";
 
+body {
+  background-color: black;
+}
+
 // override for the 'Home' navigation link
 .top-bar .name {
   font-size: rem-calc(13);
